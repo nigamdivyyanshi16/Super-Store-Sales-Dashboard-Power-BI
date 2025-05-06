@@ -19,8 +19,6 @@ To contribute to business success by leveraging data analysis techniques—espec
 ---
 
 ## 📂 Dataset
-- Source: Superstore Sales Data (2019–2020)
-- Format: Excel
 -Fields: Row ID+O6G3A1:R6	Order ID	Order Date	Ship Date	Ship Mode	Customer ID	Customer Name	Segment	Country	City	State	Region	Product ID	Category	Sub-Category	Product Name	Sales	Quantity	Profit	Returns	Payment Mode	ind1	ind2
 
 ---
